@@ -1,0 +1,89 @@
+movie_name,year,hero,director,genre,budget_crores,screens,release_season,is_sequel,has_big_music,worldwide_collection_crores,verdict
+Magadheera,2009,Ram Charan,SS Rajamouli,Fantasy/Action,60,1500,Summer,No,Yes,150,Blockbuster
+Julayi,2012,Allu Arjun,Trivikram,Action/Comedy,30,1000,Regular,No,Yes,82,Hit
+Eega,2012,Nani,SS Rajamouli,Fantasy,40,1200,Summer,No,Yes,130,Blockbuster
+Attarintiki Daredi,2013,Pawan Kalyan,Trivikram,Comedy/Drama,40,1500,Dussehra,No,Yes,125,Blockbuster
+Mirchi,2013,Prabhas,Koratala Siva,Action/Romance,45,1200,Sankranti,No,Yes,95,Hit
+Race Gurram,2014,Allu Arjun,Harish Shankar,Action/Comedy,42,1800,Summer,No,Yes,122,Blockbuster
+Legend,2014,Balakrishna,Boyapati Srinu,Action,35,1600,Sankranti,No,No,80,Hit
+1-Nenokkadine,2014,Mahesh Babu,Sukumar,Thriller,50,1200,Sankranti,No,Yes,72,Average
+S/O Satyamurthy,2015,Allu Arjun,Trivikram,Family/Drama,40,1500,Summer,No,Yes,105,Hit
+Srimanthudu,2015,Mahesh Babu,Koratala Siva,Action/Drama,50,2000,Summer,No,Yes,130,Blockbuster
+Baahubali: The Beginning,2015,Prabhas,SS Rajamouli,Epic/Action,180,4000,Summer,No,Yes,650,Blockbuster
+Temper,2015,Jr NTR,Puri Jagannadh,Action,35,1500,Sankranti,No,Yes,62,Hit
+Kick 2,2015,Ravi Teja,Surender Reddy,Action/Comedy,30,1200,Summer,No,Yes,55,Average
+Janatha Garage,2016,Jr NTR,Koratala Siva,Action/Drama,55,2000,Dussehra,No,Yes,100,Hit
+Oopiri,2016,Nagarjuna,Vamsi Paidipally,Comedy/Drama,30,1000,Summer,No,Yes,45,Average
+Dhruva,2016,Ram Charan,Surender Reddy,Action,60,1800,Christmas,No,Yes,60,Flop
+Baahubali: The Conclusion,2017,Prabhas,SS Rajamouli,Epic/Action,250,9000,Summer,Yes,Yes,1810,Blockbuster
+Khaidi No.150,2017,Chiranjeevi,V. V. Vinayak,Action,55,2500,Sankranti,No,Yes,250,Blockbuster
+Jai Lava Kusa,2017,Jr NTR,Bobby Kolli,Action/Drama,55,2500,Dussehra,No,Yes,130,Blockbuster
+Mersal (Telugu),2017,Vijay,Atlee,Action,100,1500,Dussehra,No,Yes,80,Hit
+Rangasthalam,2018,Ram Charan,Sukumar,Action/Drama,50,2000,Summer,No,Yes,200,Blockbuster
+Geetha Govindam,2018,Vijay Deverakonda,Parasuram,Romance/Comedy,12,1500,Independence Day,No,Yes,200,Blockbuster
+Bharat Ane Nenu,2018,Mahesh Babu,Koratala Siva,Political/Drama,55,2200,Summer,No,Yes,125,Hit
+Agnyaathavaasi,2018,Pawan Kalyan,Trivikram,Action/Drama,70,3000,Sankranti,No,Yes,55,Flop
+F2: Fun and Frustration,2019,Venkatesh,Anil Ravipudi,Comedy,22,1800,Sankranti,No,Yes,110,Blockbuster
+Maharshi,2019,Mahesh Babu,Vamsi Paidipally,Drama,70,2500,Summer,No,Yes,150,Hit
+Jersey,2019,Nani,Gowtam Tinnanuri,Sports/Drama,20,1200,Regular,No,Yes,80,Hit
+Saaho,2019,Prabhas,Sujeeth,Action/Thriller,350,6000,Independence Day,No,Yes,650,Average
+Vinaya Vidheya Rama,2019,Ram Charan,Boyapati Srinu,Action,60,3000,Sankranti,No,Yes,50,Flop
+Dear Comrade,2019,Vijay Deverakonda,Bharat Kamma,Romance/Drama,20,1200,Summer,No,Yes,40,Below Average
+iSmart Shankar,2019,Ram Pothineni,Puri Jagannadh,Action/Comedy,25,1500,Summer,No,Yes,60,Hit
+Uppena,2021,Panja Vaisshnav Tej,Buchi Babu,Romance/Drama,15,1200,Summer,No,Yes,75,Hit
+Vakeel Saab,2021,Pawan Kalyan,Venu Sriram,Drama,60,3500,Summer,No,Yes,180,Hit
+Krack,2021,Ravi Teja,Gopichand Malineni,Action,35,2000,Sankranti,No,Yes,100,Blockbuster
+Pushpa: The Rise,2021,Allu Arjun,Sukumar,Action/Drama,200,6000,Christmas,No,Yes,360,Blockbuster
+Shyam Singha Roy,2021,Nani,Rahul Sankrityan,Drama/Fantasy,40,1500,Christmas,No,Yes,65,Hit
+Most Eligible Bachelor,2021,Akhil Akkineni,Bommarillu Bhaskar,Romance,25,1500,Dussehra,No,Yes,55,Hit
+Sreekaram,2021,Sharwanand,Kishor B.,Drama,8,800,Regular,No,No,15,Average
+RRR,2022,Jr NTR,SS Rajamouli,Action/Drama,550,10000,Sankranti,No,Yes,1200,Blockbuster
+Bheemla Nayak,2022,Pawan Kalyan,Saagar K. Chandra,Action/Drama,80,4000,Sankranti,No,Yes,200,Hit
+Radhe Shyam,2022,Prabhas,Radha Krishna Kumar,Romance,350,4000,Summer,No,Yes,100,Below Average
+Sarkaru Vaari Paata,2022,Mahesh Babu,Parasuram,Action/Comedy,90,4500,Summer,No,Yes,200,Hit
+Liger,2022,Vijay Deverakonda,Puri Jagannadh,Sports/Action,100,4000,Independence Day,No,Yes,60,Flop
+Bimbisara,2022,Nandamuri Kalyan Ram,Mallidi Vasishta,Fantasy/Action,40,1800,Independence Day,No,Yes,50,Hit
+Karthikeya 2,2022,Nikhil Siddharth,Chandoo Mondeti,Mystery/Adventure,15,1200,Independence Day,No,Yes,115,Blockbuster
+Acharya,2022,Chiranjeevi,Koratala Siva,Action,200,4000,Summer,No,Yes,55,Flop
+Ala Vaikunthapurramuloo,2020,Allu Arjun,Trivikram,Action/Family,60,3500,Sankranti,No,Yes,250,Blockbuster
+Sarileru Neekevvaru,2020,Mahesh Babu,Anil Ravipudi,Action/Comedy,80,3500,Sankranti,No,Yes,280,Blockbuster
+Dasara,2023,Nani,Srikanth Odela,Action/Drama,60,2500,Summer,No,Yes,80,Hit
+Veera Simha Reddy,2023,Balakrishna,Gopichand Malineni,Action,70,3000,Sankranti,No,Yes,120,Hit
+Waltair Veerayya,2023,Chiranjeevi,Bobby Kolli,Action/Comedy,100,4000,Sankranti,No,Yes,200,Blockbuster
+Bhola Shankar,2023,Chiranjeevi,Meher Ramesh,Action,80,3500,Summer,No,Yes,40,Flop
+Skanda,2023,Ram Pothineni,Boyapati Srinu,Action,70,3500,Dussehra,No,Yes,60,Average
+Bro,2023,Pawan Kalyan,Samuthirakani,Comedy/Drama,60,3000,Summer,No,Yes,30,Flop
+Tiger Nageswara Rao,2023,Ravi Teja,Vamsee,Action,80,4000,Dussehra,No,Yes,80,Average
+Salaar: Part 1,2023,Prabhas,Prashanth Neel,Action,200,8000,Christmas,Yes,Yes,400,Blockbuster
+Guntur Kaaram,2024,Mahesh Babu,Trivikram,Family/Drama,100,4000,Sankranti,No,Yes,50,Flop
+HanuMan,2024,Teja Sajja,Prashanth Varma,Action/Superhero,50,3500,Sankranti,No,Yes,350,Blockbuster
+Devara: Part 1,2024,Jr NTR,Koratala Siva,Action/Drama,200,7000,Dussehra,No,Yes,250,Average
+Kalki 2898-AD,2024,Prabhas,Nag Ashwin,Sci-Fi/Action,600,10000,Summer,No,Yes,1000,Blockbuster
+Eagle,2024,Ravi Teja,Karthik Gattamneni,Action/Thriller,50,2500,Sankranti,No,Yes,40,Flop
+Tillu Square,2024,Siddhu Jonnalagadda,Mallik Ram,Comedy,15,2000,Summer,Yes,Yes,80,Blockbuster
+Lucky Baskhar,2024,Dulquer Salmaan,Venky Atluri,Thriller/Drama,80,2500,Dussehra,No,Yes,120,Hit
+Saripodhaa Sanivaaram,2024,Jr NTR,Vivek Athreya,Action/Thriller,150,6000,Independence Day,No,Yes,130,Hit
+Pushpa 2: The Rule,2024,Allu Arjun,Sukumar,Action/Drama,400,12000,Christmas,Yes,Yes,1800,Blockbuster
+Stree 2 (Telugu),2024,Rajkummar Rao,Amar Kaushik,Horror/Comedy,110,5000,Independence Day,No,Yes,620,Blockbuster
+Aa Okkati Adakku,2024,Allari Naresh,G. Nageswara Reddy,Comedy,8,800,Regular,No,No,12,Average
+Maa Oori Polimera 2,2022,Kayathi Venkata Narayana,Maddali Ravi,Drama,5,500,Regular,Yes,No,8,Average
+Ante Sundaraniki,2022,Nani,Vivek Athreya,Romance/Comedy,20,1500,Summer,No,Yes,55,Hit
+Bangarraju,2022,Nagarjuna,Kalyan Krishna,Fantasy/Comedy,30,2500,Sankranti,Yes,Yes,80,Hit
+Dhamaka,2022,Ravi Teja,Trinadha Rao Nakkina,Action/Comedy,40,2500,Dussehra,No,Yes,90,Hit
+Thank You,2022,Naga Chaitanya,Vikram Kumar,Romance/Drama,35,1500,Summer,No,Yes,20,Flop
+Godfather,2022,Chiranjeevi,Mohan Raja,Political/Action,120,5000,Dussehra,No,Yes,100,Average
+Aadavallu Meeku Johaarlu,2022,Sharwanand,Kishore Tirumala,Romance/Comedy,20,1500,Sankranti,No,Yes,35,Average
+DJ Tillu,2022,Siddhu Jonnalagadda,Vimal Krishna,Comedy,5,800,Regular,No,Yes,38,Blockbuster
+Naatu Naatu (RRR Oscar win effect boosted collections in 2023),2023,Jr NTR,SS Rajamouli,N/A,0,0,Regular,No,Yes,0,Blockbuster
+Virupaksha,2023,Sai Tej,Karthik Dandu,Mystery/Thriller,30,2000,Summer,No,Yes,65,Hit
+Hi Nanna,2023,Nani,Shouryuv,Drama/Romance,35,2000,Christmas,No,Yes,100,Blockbuster
+Custody,2023,Naga Chaitanya,Venkat Prabhu,Action,40,2000,Summer,No,Yes,25,Flop
+Kisi Ka Bhai Kisi Ki Jaan (Telugu),2023,Salman Khan,Farhad Samji,Action/Comedy,150,2000,Summer,No,Yes,60,Below Average
+Agent,2023,Akhil Akkineni,Surender Reddy,Action,60,2500,Summer,No,Yes,18,Flop
+Saindhav,2024,Venkatesh,Sailesh Kolanu,Action/Thriller,80,3000,Sankranti,No,Yes,35,Flop
+Hanu-Man (re-release),2024,Teja Sajja,Prashanth Varma,Action/Superhero,5,1000,Regular,No,No,15,Hit
+Mr. Bachchan,2024,Ravi Teja,Harish Shankar,Action/Comedy,60,3000,Independence Day,No,Yes,30,Flop
+Matka,2024,Varun Tej,Karuna Kumar,Drama,50,2500,Christmas,No,Yes,15,Flop
+Game Changer,2024,Ram Charan,Shankar,Political/Action,300,8000,Christmas,No,Yes,120,Below Average
+Robinhood,2025,Nithiin,Venky Kudumula,Action/Comedy,50,2500,Sankranti,No,Yes,35,Average
+Daaku Maharaaj,2025,Balakrishna,Bobby Kolli,Action,80,4000,Sankranti,No,Yes,80,Hit
